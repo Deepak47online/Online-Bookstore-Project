@@ -5,8 +5,8 @@ Key tasks included filtering data, aggregating metrics, identifying trends, and 
 The project demonstrated my ability to work with large datasets and use SQL efficiently for analytical decision-making.
 
 # SQL Functions & Techniques Used:
-Filtering & Sorting: WHERE, ORDER BY, DISTINCT
-Aggregation: COUNT(), SUM(), AVG(), MIN(), MAX()
+Filtering & Sorting: WHERE, ORDER BY, DISTINCT /
+Aggregation: COUNT(), SUM(), AVG(), MIN(), MAX() /
 Grouping & Segmentation: GROUP BY, HAVING
 Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN
 String Functions: CONCAT(), LTRIM(), RTRIM(), SUBSTRING(), UPPER(), LOWER(), LENGTH()
